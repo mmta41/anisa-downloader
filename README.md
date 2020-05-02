@@ -4,8 +4,8 @@ Requirment:
 -------------------
 
 ```
-    PHP 7
-    php-curl php-zip php-xml
+    PHP 7+ with curl & xml modules
+    ffmpeg optional
 ```
 
 combine funcionality require `ffmepg` installed.
